@@ -1,6 +1,6 @@
 # expense_app
 
-A new Flutter project.
+This Flutter project is for learning basic flutter controls and how to create UI with widgets.
 
 ## Getting Started
 
